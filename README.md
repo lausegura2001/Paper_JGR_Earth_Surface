@@ -12,7 +12,7 @@ The data is in MATLAB files (.mat). If you need the data in another format pleas
    `yy_nearmap`: a matrix of 1300 rows and 49 columns. The rows represent the cross-shore shoreline position recorded each meter starting    at 1352 m (row 1) and finishing in 53 m. If you want to plot the shorelines as in the paper, just plot them againts a  vector 
    y = 53:1:1352 that represents the alongshore position.
 
-* **Shoreline from topographic surveys: Contours_MO.map** 
+* **Shoreline from topographic surveys: Contours_MO.mat** 
 
   `dates_MO`: serial date, year, month and day for each topographic survey where the shoreline contour was extracted.
   
